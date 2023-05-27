@@ -6,7 +6,7 @@ The app allows users to create, edit, and delete notes.
 
 ## Gif file
 
-![react-typescript](https://github.com/javad7899/note-app-react-bootstrap-typescript/assets/90629580/ed87d155-a86c-4d47-9f73-b92888573103)
+![react-ts](https://github.com/javad7899/note-app-react-bootstrap-typescript/assets/90629580/7eca79c6-a223-472b-8380-f07e0778cd51)
 
 
 ## Features
